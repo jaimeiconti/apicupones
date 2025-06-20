@@ -1,0 +1,34 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs y test
+*.log
+coverage.*
+htmlcov/
+.cache/
+.tox/
+.pytest_cache/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos de cobertura
+*.coverage
+
+# GitHub Actions cache y backups
+*.bak
